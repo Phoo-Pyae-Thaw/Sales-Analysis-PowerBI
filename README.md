@@ -29,54 +29,6 @@ Project Files
 - Interactive filters (slicers)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Screenshots
-  
-  
-
-
-
-
-
-
-
-
-
 How to Use
 1. Open `Sales Data Analysis.pbix` with **Power BI Desktop**
 2. Use the slicers on the right to explore different years, regions, or segments
