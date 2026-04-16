@@ -1,45 +1,43 @@
-﻿Superstore Sales Analytics Dashboard
-
+﻿# Superstore Sales Analytics Dashboard
 
 **End-to-End Retail Sales Analysis using Python and Power BI**
 
+## 📊 Project Overview
+Built an interactive Power BI dashboard to analyze **$2.3 Million** in total sales and **$286K** profit from the Superstore retail dataset.
 
-Project Overview
-Built an interactive Power BI dashboard analyzing **$2.3 Million** in sales and **$286K** profit from the Superstore retail dataset.
-
-
-Technologies Used
+## 🛠️ Technologies Used
 - **Python** (pandas) – Data cleaning & feature engineering
 - **Jupyter Notebook** – Data preprocessing
-- **Power BI** – Dashboard creation and visualization
+- **Power BI** – Interactive dashboard creation
 
-
-Project Files
-- `clean_store.ipynb` → Data cleaning, date transformation, and feature engineering
-- `Sales Data Analysis.pbix` → Main interactive Power BI dashboard
+## 📁 Project Files
+- `clean_store.ipynb` → Data cleaning and feature engineering
+- `Sales Data Analysis.pbix` → Main Power BI dashboard
 - `clean_store_data.csv` → Cleaned dataset
 - `raw_data.csv` → Original raw data
+- `screenshots/` → Dashboard images
 
-
- Dashboard Features
-- Key Performance Indicators (Total Sales, Profit, Quantity, Growth %)
-- Monthly Sales Trend with Last Year Comparison
-- Sales and Profit breakdown by **Category** and **Country**
+## ✨ Key Features
+- KPI Cards (Total Sales, Profit, Quantity, Sales Growth %)
+- Monthly Sales Trend with YoY comparison
+- Breakdown by **Category** and **Country**
 - Category contribution donut chart
-- Interactive filters (slicers)
+- Interactive slicers for filtering
 
+## 📸 Dashboard Screenshots
 
-How to Use
-1. Open `Sales Data Analysis.pbix` with **Power BI Desktop**
-2. Use the slicers on the right to explore different years, regions, or segments
+![Sales Trend](Sales_Trend.png)
+![Sales by Category](Sales_By_Category.png)
 
+## 🚀 How to View
+1. Download `Sales Data Analysis.pbix`
+2. Open it using **Power BI Desktop** (free)
+3. Use the slicers to explore the data
 
- Key Insights
-- Technology category shows the highest profit contribution
-- Furniture has high sales but relatively lower profit margins
-
+## 📈 Key Insights
+- Technology category contributes the highest profit
+- Furniture has high sales but lower profit margins due to discounts
 
 ---
 
-
-**Project by Phoo Pyae Thaw**
+**Made by Phoo Pyae Thaw**  
